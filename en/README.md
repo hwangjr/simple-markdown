@@ -1,2 +1,2 @@
-# simple-android
-Git Book About Learning Android~  (http://hwangjr.gitbooks.io/simple-android/)
+# simple-markdown
+Git Book About Learning Markdown~  (http://simple-markdown.hwangjr.com/)
