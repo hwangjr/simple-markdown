@@ -1,6 +1,7 @@
 # Summary
 
 * [介绍篇](intro/README.md)
+    * [一篇文章学会Markdown](intro/learn_page.md)
 * [语法篇](grammar/README.md)
     * [字体](grammar/font.md)
     * [换行](grammar/wrap.md)

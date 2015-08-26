@@ -2,6 +2,7 @@
 
 ### 流程描述
 上图：
+
 ![写作流程](img/doc_flow.png "写作流程")
 
 主要流程为：
@@ -14,3 +15,7 @@
 [sky-y/xmindoc](https://github.com/sky-y/xmindoc)：Exports XMind Mindmap to any documents with Pandoc
 [Pandoc - Pandoc User’s Guide](http://pandoc.org/README.html)
 [vim-pandoc/vim-pandoc](https://github.com/vim-pandoc/vim-pandoc)
+[Markdown as an universal writing ecosystem](http://box.matto.nl/markdown.html)
+[jgm/pandoc](https://github.com/jgm/pandoc)
+[Converting Markdown to a mind map](http://brettterpstra.com/2013/08/18/markdown-to-mind-map/)
+[ttscoff/popclipextensions](https://github.com/ttscoff/popclipextensions)

@@ -11,20 +11,25 @@
 ```
 
 <code>\`\`\`</code>
+
 public void print(String text) {
         System.out.println(text);
 
 }
+
 <code>\`\`\`</code>
 
 <code>\`\`\`</code> java
+
 public void print(String text) {
         System.out.println(text);
 
 }
+
 <code>\`\`\`</code>
 
 效果：
+
 `System.out.println();`可系统打印出消息
 
 ```
