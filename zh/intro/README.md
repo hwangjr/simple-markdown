@@ -32,4 +32,4 @@ Markdown 适用于：
 
 当前有很多语言的Markdown实现版本，最先是Gruber使用Perl脚本编写，之后被重新实现。
 
-More：[]WIKIPEDIA](https://zh.wikipedia.org/wiki/Markdown)
+More：[WIKIPEDIA](https://zh.wikipedia.org/wiki/Markdown)
